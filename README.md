@@ -1,11 +1,11 @@
 <!-- Top Dynamic Cyberpunk / Dark Wave Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hanzla%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agents%20%26%20Systems%20%E2%80%A2%20Mobile%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Hanzla Ahmad Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hanzla%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Mobile%20Architect&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Hanzla Ahmad Banner" />
 </p>
 
 <!-- Dynamic Typewriter Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agent+control+planes+%F0%9F%A4%96;Full-Stack+MERN%2C+Next.js+%26+Astro+platforms+%F0%9F%8C%90;Cross-platform+mobile+apps+with+Flutter+%F0%9F%93%B1;High-performance+C%2B%2B+%26+systems+programming+%E2%9A%A1;Real-world+commercial+software+deployed+live+%F0%9F%9A%80" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agent+control+planes+%F0%9F%A4%96;Full-Stack+MERN%2C+Next.js+and+Astro+platforms+%F0%9F%8C%90;Cross-platform+mobile+apps+with+Flutter+%F0%9F%93%B1;High-performance+C%2B%2B+and+systems+programming+%E2%9A%A1;Real-world+commercial+software+deployed+live+%F0%9F%9A%80" alt="Dynamic Typing SVG" />
 </p>
 
 <!-- Social & Contact Pills -->
