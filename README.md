@@ -1,6 +1,6 @@
 <!-- Top Dynamic Cyberpunk / Dark Wave Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hanzla%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Developer%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Linux%20Daemons&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Hanzla Ahmad Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,30&height=220&section=header&text=Hanzla%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20Systems%20Developer%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Linux%20Daemons&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Hanzla Ahmad Banner" />
 </p>
 
 <!-- Dynamic Typewriter Animation -->
