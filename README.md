@@ -19,8 +19,8 @@
   <a href="https://wa.me/923266900001" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="mailto:hanzlaahmadch@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hanzlaahmadch@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hello@hanzlaahmad.com">
+    <img src="https://img.shields.io/badge/Email-hello@hanzlaahmad.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/hanzlaahmadcheema?tab=repositories">
     <img src="https://img.shields.io/badge/30+_Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -36,7 +36,7 @@ Name: Hanzla Ahmad (Cheemæ)
 Location: Lahore, Punjab, Pakistan
 Education: BS in Computer Science (2022 - 2026) @ Riphah International University
 Live Portfolio: https://hanzlaahmad.com
-Direct Contact: hanzlaahmadch@gmail.com | +92 326 6900001 (WhatsApp)
+Direct Contact: hello@hanzlaahmad.com | +92 326 6900001 (WhatsApp)
 
 Experience & Track Record:
   - Founder & Lead Systems Engineer @ HA Entertainment (Jun 2020 - Present)
